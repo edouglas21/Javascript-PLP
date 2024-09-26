@@ -1,3 +1,2 @@
 # Javascript-PLP
- this is the code for hello world in JS
-very simple and prints an output 
+Hello! Here is my repository for Javascript. I am teaching myself the langauge and have been making a guide. So come and join the adventure XD
