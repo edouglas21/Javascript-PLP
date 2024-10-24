@@ -24,6 +24,7 @@ if (isRaining) {
 let a = 5;
 let b = 8;
 
+//can use operator to have multiple in one line, no need to separate
 if (a > 0 && b < 10) {
     console.log("a is positive and b is less than 10.");
 } else {
@@ -34,6 +35,7 @@ if (a > 0 && b < 10) {
 // if/elif/else statements
 let score = 85;
 
+//
 if (score >= 90) {
     console.log("You got an A!");
 } else if (score >= 80) {
@@ -66,7 +68,6 @@ console.log(userColor); // Output: "blue"
 
 
 // now a switch case scenario 
-
 let month = 5;
 
 switch (month) {
